@@ -1,15 +1,38 @@
 ## Profile
 
-More than 8 years of experience in
-different roles in teams or
-organizations of any size and scale
-has made me a flexible and
-adaptable person who is well aware
-of the complexities of teamwork
-and strives to make the project a
-reality, in any way the team needs
+More than 8 years of experience in different roles in teams or organizations of any size and scale has made me a flexible and adaptable person who is well aware of the complexities of teamwork and strives to make the project a reality, in any way the team needs.
 
-### Markdown
+## Professional Experience
+
+### Agile Coach / Mabna DP
+`01/2021 – present`
+
+**Responsibilities:**
+- Creating an ITSM cycle according to the ITIL approach.
+- Establishing scrum and kanban teams, according to the agile mindset.
+- Integrating all the processes by hosted tools like Jira, Mattermost, etc.
+- Planning OKR management, so we can keep all the teams focused on company goals
+along with personal improvements.
+
+### Team Lead & Mentor / FANAP Co
+`03/2020 – 01/2021`
+
+**Responsibilities:**
+- Team Management and Mentoring (junior) developers
+- Business Strategy
+- System Analysis and design
+- Road map Development
+
+
+### Product Manager / FANAP Co
+`12/2018 – 07/2020`
+
+**Responsibilities:**
+- Defining and clarifying product vision.
+- Guiding and coaching product owners.
+- Prioritizing product goals for the technical, UI/UX, and graphic design teams.
+
+
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
