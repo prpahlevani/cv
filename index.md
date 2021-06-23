@@ -6,7 +6,6 @@ More than 8 years of experience in different roles in teams or organizations of 
 
 ### Agile Coach / Mabna DP
 `01/2021 – present`
-
 **Responsibilities:**
 - Creating an ITSM cycle according to the ITIL approach.
 - Establishing scrum and kanban teams, according to the agile mindset.
@@ -16,7 +15,6 @@ along with personal improvements.
 
 ### Team Lead & Mentor / FANAP Co
 `03/2020 – 01/2021`
-
 **Responsibilities:**
 - Team Management and Mentoring (junior) developers
 - Business Strategy
@@ -26,7 +24,6 @@ along with personal improvements.
 
 ### Product Manager / FANAP Co
 `12/2018 – 07/2020`
-
 **Responsibilities:**
 - Defining and clarifying product vision.
 - Guiding and coaching product owners.
