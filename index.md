@@ -72,32 +72,34 @@ agent services in Turkey(or any other third parties).
 It had also an exchange panel, to validate the current exchange rate, both by Laravel.
 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+### Senior PHP Developer / Rabin Co
+`01/2016 – 03/2017`
 
-# Header 1
-## Header 2
-### Header 3
+**Responsibilities:**
 
-- Bulleted
-- List
+Rabin was a startup team of young talented developers that had multiple projects. I
+was responsible for technical decisions, especially in leading the back-end team when
+developing and maintaining the services.
 
-1. Numbered
-2. List
+1. _Boshra Media, Multi-Platform IPTV System_
+- launched for Boshra Institute of Culture & Arts. Boshra Media was an IPTV and Live
+Streaming web application that supported ios, android, TV boxes (Apple TV,
+Samsung, and Sony smart TVs and Android set-top boxes). It was programmed and
+developed with a single core kernel, written with a custom PHP micro-framework.
+using Lightweight Slim routing system, and custom PHP ORM to map the object
+models to the database and conversely. The main concept of this ORM was derived
+from the structure of Java hibernate and PHP Symphony Doctrine
 
-**Bold** and _Italic_ and `Code` text
+2. _Boshra Automatic Daily Settlement_
+- was written as a statistic and report center panel for all the movie stakeholders such
+as directors, producers, etc. It had an automatic daily settlement based on
+synchronized sales data. (Laravel)
 
-[Link](url) and ![Image](src)
-```
+### Co-Founder / Negaran Co
+`01/2013 – 12/2015`
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/prpahlevani/cv/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Negaran has been established for creating rapid solutions in growing up human
+resources in businesses and technical concepts.
+It has now stopped building new projects but holds small group conferences and
+periodic meetings.
