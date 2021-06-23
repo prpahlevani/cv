@@ -6,6 +6,7 @@ More than 8 years of experience in different roles in teams or organizations of 
 
 ### Agile Coach / Mabna DP
 `01/2021 – present`
+
 **Responsibilities:**
 - Creating an ITSM cycle according to the ITIL approach.
 - Establishing scrum and kanban teams, according to the agile mindset.
@@ -13,8 +14,11 @@ More than 8 years of experience in different roles in teams or organizations of 
 - Planning OKR management, so we can keep all the teams focused on company goals
 along with personal improvements.
 
+
+
 ### Team Lead & Mentor / FANAP Co
 `03/2020 – 01/2021`
+
 **Responsibilities:**
 - Team Management and Mentoring (junior) developers
 - Business Strategy
@@ -22,13 +26,50 @@ along with personal improvements.
 - Road map Development
 
 
+
 ### Product Manager / FANAP Co
 `12/2018 – 07/2020`
+
 **Responsibilities:**
 - Defining and clarifying product vision.
 - Guiding and coaching product owners.
 - Prioritizing product goals for the technical, UI/UX, and graphic design teams.
 
+
+
+### System Architect / FANAP Co
+`12/2018 – 07/2020`
+
+**Responsibilities:**
+
+Responsible for designing the system and its dependent components, based on
+stakeholder needs and business structure.
+1. _FANAP's POD Messaging Platform_
+- We provided FANAP's POD platform messaging services as some SDKs, to be
+suitable for any use cases. (used by Wepod smart social financial network, and Talk
+Messenger)
+2. _Pod Space_
+- Is a cloud storage platform (based on Java) that provides its services in the form of
+restful API. It has also desktop, web, and mobile applications for end-users.
+
+
+
+### Senior PHP Engineer / FANAP Co
+`04/2017 – 01/2020`
+
+**Responsibilities:**
+
+As a senior PHP engineer, I was involved in the development team, especially was
+responsible for the backend logic of the below projects:
+1. _AttRes_
+- a cloud platform for managing ticket sales of tourist attractions in Iran. Firstly, it was
+developed for the reservation management portal of Kish Island.
+written by Laravel via HMVC architecture.
+2. _FANEx_
+- was an International Currency Transfer.
+The main idea of the project was to send money all around the world, using UPT
+agent services in Turkey(or any other third parties).
+It had also an exchange panel, to validate the current exchange rate, both by Laravel.
 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
